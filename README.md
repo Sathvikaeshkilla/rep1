@@ -1,3 +1,1 @@
-# rep1
-this is my first project
-author_sath
+This basic python code checks accuracy of different machine learning algoriths on IRIS dataset 
